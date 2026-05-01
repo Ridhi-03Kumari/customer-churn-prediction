@@ -16,7 +16,7 @@ warnings.filterwarnings("ignore")
 # ─────────────────────────────────────────────
 # 1. LOAD DATA
 # ─────────────────────────────────────────────
-df = pd.read_csv("data/WA_Fn-UseC_-Telco-Customer-Churn.csv")
+df = pd.read_csv("DATA/WA_Fn-UseC_-Telco-Customer-Churn.csv")
 print("✅ Dataset loaded:", df.shape)
 print(df.head(3))
 
