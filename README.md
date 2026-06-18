@@ -2,13 +2,14 @@
 
 An ML-powered interactive dashboard to predict telecom customer churn in real-time.
 
-🔗 **Live Demo:** [Click here to view]((https://ridhi31-churn-prediction.streamlit.app/))
+🔗 **Live Demo:** ## 
+ [Click here to view the live dashboard](https://ridhi31-churn-prediction.streamlit.app/)
 
 ---
 
 ##  Features
 - Interactive Plotly charts with hover effects
-- Churn distribution, contract analysis, tenure vs charges scatter plot
+- Churn distribution, contract analysis, tenure vs charges scatter plot-
 - Box plots and internet service breakdown
 - Random Forest vs Logistic Regression comparison
 - Radar chart for model metrics (Accuracy, Precision, Recall, F1)
