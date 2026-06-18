@@ -2,7 +2,7 @@
 
 An ML-powered interactive dashboard to predict telecom customer churn in real-time.
 
-🔗 **Live Demo:** [Click here to view](https://your-app-name.streamlit.app)
+🔗 **Live Demo:** [Click here to view]((https://ridhi31-churn-prediction.streamlit.app/))
 
 ---
 
